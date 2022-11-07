@@ -1,0 +1,21 @@
+{
+    "nome": "Pedro Victor",
+    "cargo": "Desenvolvedor front end",
+    "foto": "Pedro150977",
+    "playlist": {
+        "jogos": [
+            {
+                "titulo": "titulo",
+                "url": "url",
+                "thumb": "thumbnail do video" 
+            }
+        ],
+        "estudos": [
+            {
+                "titulo": "titulo",
+                "url": "url",
+                "thumb": "thumbnail do video" 
+            }
+        ]
+    }
+}
